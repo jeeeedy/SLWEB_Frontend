@@ -180,7 +180,7 @@ const ContasModal = (props) => {
 						className='YAlign'
 						style={{ height: 200, width: '100%', alignItems: 'center' }}
 					>
-						<Typography variant='h4'>Chamado 2BTech</Typography>
+						<Typography variant='h4'>Licenciamento de Software</Typography>
 						<Typography variant='subtitle1'>
 							(Cobrança de chamado técnico prestado pela empresa 2BTech não
 							coberto pela franqueadora-GabrielB)

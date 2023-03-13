@@ -183,7 +183,7 @@ const ContasModal = (props) => {
 						<Typography variant='h4'>Chamado 2BTech</Typography>
 						<Typography variant='subtitle1'>
 							(Cobrança de chamado técnico prestado pela empresa 2BTech não
-							coberto pela franqueadora)
+							coberto pela franqueadora-GabrielB)
 						</Typography>
 					</div>
 				</>
